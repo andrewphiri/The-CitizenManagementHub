@@ -30,6 +30,9 @@ AI Agents can assist officers in hospitals, police stations, and immigration off
 - Integration with Banking Systems for Digital Identity Verification
 
 Installing the Solution in Power Apps
+
+Download the solution zip file
+
 Sign in to Power Apps: Go to Power Apps and sign in with your credentials.
 
 Navigate to Solutions: In the left navigation pane, select "Solutions." If you don't see it, click on the "..." (More) and then select "Solutions."
