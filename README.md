@@ -42,3 +42,4 @@ Import the Solution: Click on the "Import" button in the command bar.
 Upload the ZIP file: Browse to the location where you extracted the files and select the ZIP file.
 
 Review and Import: Follow the prompts to review the solution details and then click "Import" to complete the process.
+Go to apps and open the Citizen management hub canvas app
